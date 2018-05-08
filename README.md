@@ -71,6 +71,7 @@ a
 ........
 
 結果：
+
 ![](https://i.imgur.com/XQ161LE.png)
 ### reduce 練習(p7.py)
 找出測試資料所有英文字母,並用reduce將之append成一個字串
@@ -91,5 +92,6 @@ abcdef
 .......
 
 結果：
+
 ![](https://i.imgur.com/VhAoD3c.png)
 
