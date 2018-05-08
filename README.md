@@ -34,6 +34,7 @@ a
 ......
 
 結果：
+
 ![](https://i.imgur.com/9X4C4FY.png)
 ### filter練習(p3.py)
 找出測試資料所有以123與456的資料
@@ -46,6 +47,7 @@ a
 .....
 
 結果：
+
 ![](https://i.imgur.com/TIJgW6u.png)
 ### mapToPair 練習(p4.py)
 將測試資料轉換成(str,1)
@@ -57,6 +59,7 @@ a
 .....
 
 結果：
+
 ![](https://i.imgur.com/PGbRZ0Z.png)
 ### flatMapToPair 練習(p5.py)
 將測試資料轉換成(字母,所有後面數字的sum)
@@ -79,6 +82,7 @@ a
 abcdef
 
 結果：
+
 ![](https://i.imgur.com/t9DMeJq.png)
 ### reduceByKey 練習(p8.py)
 找出以","切割的所有wordcount
