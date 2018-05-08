@@ -69,6 +69,7 @@ a
 (f,4950)
 
 ........
+
 結果：
 ![](https://i.imgur.com/XQ161LE.png)
 ### reduce 練習(p7.py)
